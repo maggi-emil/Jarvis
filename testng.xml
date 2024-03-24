@@ -2,7 +2,7 @@
 <suite name="Regression Suite" verbose="10">
     <test name="Run All">
         <packages>
-            <package name="com.jarvis.tests.*" />
+            <package name="com.guardme.tests.*" />
         </packages>
     </test>
 </suite>
