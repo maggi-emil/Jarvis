@@ -1,4 +1,4 @@
-package com.guardme.tests;
+package com.guardme.tests.breeds;
 
 import com.guardme.controllers.Breeds;
 import com.guardme.models.requests.Breeds.SearchBreedsResponse;
